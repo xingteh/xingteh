@@ -30,6 +30,6 @@ Studio Blog:[Link](https://macwinlin.github.io)
 
 Studio Old Blog:[Link](https://macwinlin.github.io/old)
 
-ad:[CGK System(Studio Project)](https://macwinlin-studio.github.io/cgk-system) [Lemon's Blog(All Old Webpage Template)](https://lemonchann.github.io) [Gridea](https://gridea.dev)
+ad:[CGK System(Studio Project)](https://macwinlin-studio.github.io/cgk-system)|[Lemon's Blog(All Old Webpage Template)](https://lemonchann.github.io)|[Gridea](https://gridea.dev)
 
-##### Please follow me!
+#### Please follow me!
