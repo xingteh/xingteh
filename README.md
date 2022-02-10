@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello,clever person!
 
-<!--
-**xinxin2021/xinxin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Xinxin's README!But I'm not a repository!
 
-Here are some ideas to get you started:
+## Contents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[English Version(Updated on Febuaury 10, 2022](#English Version)
+
+## English Version
+
+Hello,I'm Xinxin.
+
+I'm Chinese.Emm...I am not very good at English,most texts need Google Translate.So please see the Chinese version.It's rasier to read.
+
+If you like my project,please click follow button,I'll very happy!
+
+My project is not very good,I know.But please Star or Fork my repositories!
+
+I like Python,it's first,second is Java,third is C++.At present,I don't like other language.
+
+I'm only on Github and Gitee publish code,and Gitee account has no projects,so I'm only on Github.
