@@ -4,7 +4,7 @@ This is Xinxin's README!But I'm not a repository!
 
 ## Contents
 
-[English Version(Updated on Febuaury 10, 2022](#English Version)
+[English Version](#English Version)
 
 ## English Version
 
