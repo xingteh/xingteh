@@ -4,7 +4,7 @@ This is Xinxin's README!But I'm not a repository!
 
 Hello,I'm Xinxin.
 
-I'm Chinese.Emm...I am not very good at English,most texts need Google Translate.So please see the Chinese version.It's rasier to read.
+I'm Chinese.Emm...I am not very good at English,most texts need Google Translate.So please see the Chinese version.It's easier to read.
 
 If you like my project,please click follow button,I'll very happy!
 
