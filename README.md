@@ -24,8 +24,6 @@ Old Blog:[Link](https://xinxin2021.github.io/blog-old)
 
 Download Page:[Link](https://xinxin2021.github.io/download)
 
-Old Download Page:[Link](https://xinxin2021.github.io/download-old)
-
 Studio Blog:[Link](https://macwinlin.github.io)
 
 Studio Old Blog:[Link](https://macwinlin.github.io/old)
