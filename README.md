@@ -22,5 +22,21 @@ I'm making a project: [GitHub Tools](/macwinlin-studio/github-tools)
 
 [CGK System](/macwinlin-studio/cgk-system)'s code is very chaos now, I will try to rebuild this project later.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinxin2021&layout=compact)
-![xinxin2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinxin2021&show_icons=true)
+| <a href="https://github.com/xinxin2021/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin in China's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
+| ------------- | ------------- |
+
+## Repositories
+
+<a href="https://github.com/macwinlin-studio/github-tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=macwinlin-studio&repo=github-tools" />
+</a>
+<a href="https://github.com/macwinlin-studio/cgk-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=macwinlin-studio&repo=cgk-system" />
+</a>
+
+<a href="https://github.com/macwinlin-studio/import-2.1.3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=macwinlin-studio&repo=import-2.1.3" />
+</a>
+<a href="https://github.com/apple2031/apple2031.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apple2031&repo=apple2031.github.io" />
+</a>
