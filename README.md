@@ -21,4 +21,4 @@ I'm making a project: [GitHub Tools](/macwinlin-studio/github-tools)
 [CGK System](/macwinlin-studio/cgk-system)'s code is very chaos now, I will try to rebuild this project later.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinxin2021&layout=compact)](https://github.com/xinxin2021/github-readme-stats)
-![xinxin2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinxin&show_icons=true)
+![xinxin2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinxin2021&show_icons=true)
