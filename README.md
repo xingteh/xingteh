@@ -1,6 +1,7 @@
 Hello, I'm Xinxin.
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dxinxin2021&style=flat-square)](https://github.com/xinxin2021)
+[![Gitee](https://img.shields.io/static/v1?logo=gitee&logoColor=white&label=Gitee&message=xinxin&color=c71d23&labelColor=c71d23&style=flat-square)](https://gitee.com/xinxin-2021)
 [![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo&labelColor=d52c2b&color=d52c2b&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F7661070283&style=flat-square)](https://weibo.com/u/7661070283)
 [![RSS](https://img.shields.io/static/v1?logo=rss&logoColor=white&label=RSS&message=Feed&color=95B8D1&labelColor=95B8D1&style=flat-square)](https://blog.xinxin2021.tk/feed.xml)
 [![QQ](https://img.shields.io/static/v1?logo=tencent-qq&logoColor=white&label=QQ&message=3585097686&color=ea242e&labelColor=ea242e&style=flat-square)](tencent://message/?uin=3585097686&Site=www.xinxin2021.tk&Menu=yes)
