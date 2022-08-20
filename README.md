@@ -22,7 +22,7 @@ I'm making a project: [GitHub Tools](/macwinlin-studio/github-tools)
 
 [CGK System](/macwinlin-studio/cgk-system)'s code is very chaos now, I will try to rebuild this project later.
 
-| <a href="https://github.com/xinxin2021/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin in China's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin in China's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
 
 ## Repositories
