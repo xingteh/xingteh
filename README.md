@@ -1,6 +1,8 @@
 Hello, I'm Xinxin.
 
-I'm Chinese.Emm... I am not very good at English,most texts need Google Translate. So please see the Chinese version.It's easier to read.
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dxinxin2021&style=flat-square)](https://github.com/xinxin2021)
+[![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo&labelColor=d52c2b&color=d52c2b&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F7661070283&style=flat-square)](https://weibo.com/u/7661070283)
+[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://blog.xinxin2021.tk/feed.xml&style=flat-square)](https://blog.xinxin2021.tk)
 
 If you like my project, please click follow button,I'll very happy!
 
@@ -20,5 +22,5 @@ I'm making a project: [GitHub Tools](/macwinlin-studio/github-tools)
 
 [CGK System](/macwinlin-studio/cgk-system)'s code is very chaos now, I will try to rebuild this project later.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinxin2021&layout=compact)](https://github.com/xinxin2021/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinxin2021&layout=compact)
 ![xinxin2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinxin2021&show_icons=true)
