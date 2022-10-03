@@ -20,7 +20,21 @@ My project is not very good,I know it. So I'll try to make good project.
 
 ## Learn
 
-I'm currently learning C++, but it's so hard for me, so I'm learning Python again.
+I am a student, so I stoped learn program.
+
+## Language
+
+English and Chinese.
+
+I am joking, there are...
+
+![C++](https://img.shields.io/static/v1?logo=cplusplus&logoColor=white&label=C%2B%2B&message=5%25&color=4e733a&labelColor=4e733a&style=flat-square)
+![C](https://img.shields.io/static/v1?logo=c&logoColor=white&label=C&message=1%25&color=153961&labelColor=153961&style=flat-square)
+![Scratch](https://img.shields.io/static/v1?logo=scratch&logoColor=white&label=Scratch&message=99%25&color=fbac1b&labelColor=fbac1b&style=flat-square)
+![Python](https://img.shields.io/static/v1?logo=python&logoColor=white&label=Python&message=37%25&color=376d9c&labelColor=376d9c&style=flat-square)
+![HTML5](https://img.shields.io/static/v1?logo=html5&logoColor=white&label=HTML5&message=25%25&color=f06427&labelColor=f06427&style=flat-square)
+![CSS3](https://img.shields.io/static/v1?logo=css3&logoColor=white&label=CSS3&message=15%25&color=1a97d1&labelColor=1a97d1&style=flat-square)
+![JavaScript](https://img.shields.io/static/v1?logo=javascript&logoColor=white&label=JavaScript&message=17%25&color=e3a029&labelColor=e3a029&style=flat-square)
 
 ## Project
 
