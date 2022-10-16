@@ -60,3 +60,12 @@ I'm making a project: [GitHub Tools](/macwinlin-studio/github-tools)
 <a href="https://github.com/apple2031/apple2031.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apple2031&repo=apple2031.github.io" />
 </a>
+
+## Sponsor me
+
+You can use Wechat or Alipay to sponsor me.
+
+<details>
+  <summary>QR Code</summary>
+  <img src="https://s1.imagehub.cc/images/2022/10/16/wechat-and-alipay.png">
+</details>
