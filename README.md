@@ -67,5 +67,12 @@ You can use Wechat or Alipay to sponsor me.
 
 <details>
   <summary>QR Code</summary>
-  <img src="https://s1.imagehub.cc/images/2022/10/16/wechat-and-alipay.png">
+  <img src="https://s1.imagehub.cc/images/2022/10/29/wechat-and-alipay.png">
+</details>
+
+If you can not use Wechat, please use this QR Code
+
+<details>
+  <summary>QR Code</summary>
+  <img src="https://s1.imagehub.cc/images/2022/10/29/wechat.png">
 </details>
