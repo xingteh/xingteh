@@ -74,5 +74,5 @@ If you can not use Wechat, please use this QR Code
 
 <details>
   <summary>QR Code</summary>
-  <img src="https://s1.imagehub.cc/images/2022/10/29/wechat.png">
+  <img src="https://s1.imagehub.cc/images/2022/10/29/wechat.md.png">
 </details>
