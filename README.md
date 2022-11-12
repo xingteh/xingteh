@@ -69,7 +69,7 @@ MacWinLin Studio's projects: Please click [this](https://support.qq.com/product/
 
 ## Sponsor me
 
-You can use Wechat or Alipay to sponsor me.
+You can use Wechat to sponsor me.
 
 And you can send some messages to me to sponsor me.
 
