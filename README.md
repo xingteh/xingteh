@@ -71,14 +71,9 @@ MacWinLin Studio's projects: Please click [this](https://support.qq.com/product/
 
 You can use Wechat or Alipay to sponsor me.
 
-<details>
-  <summary>QR Code</summary>
-  <img src="https://s1.imagehub.cc/images/2022/10/29/wechat-and-alipay.png">
-</details>
-
-If you can not use Wechat, please use this QR Code
+And you can send some messages to me to sponsor me.
 
 <details>
   <summary>QR Code</summary>
-  <img src="https://s1.imagehub.cc/images/2022/10/29/wechat.md.png">
+  ![](https://s1.imagehub.cc/images/2022/11/12/IMG_20221112_131733.png)
 </details>
