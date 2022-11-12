@@ -75,5 +75,5 @@ And you can send some messages to me to sponsor me.
 
 <details>
   <summary>QR Code</summary>
-  ![](https://s1.imagehub.cc/images/2022/11/12/IMG_20221112_131733.png)
+  <img src="https://s1.imagehub.cc/images/2022/11/12/wechat.png">
 </details>
