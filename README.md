@@ -67,13 +67,93 @@ MacWinLin Studio's projects: Please click [this](https://support.qq.com/product/
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apple2031&repo=apple2031.github.io" />
 </a>
 
-## Sponsor me
+## Support
 
-You can use Wechat to sponsor me.
+You can use WeChat or Alipay to sponsor me.
 
 And you can send some messages to me to sponsor me.
 
+### WeChat
+
+![](https://img.shields.io/static/v1?logo=wechat&logoColor=white&label=WeChat&message=Pay&labelColor=07c160&color=07c160&style=flat-square)
+
+Choose a method to pay.
+
+#### Method 1
+
+Open WeChat App(Android/iOS/Harmony OS), scan this QR Code.
+
 <details>
   <summary>QR Code</summary>
-  <img src="https://s1.imagehub.cc/images/2022/11/12/wechat.png">
+  <img src="https://s1.imagehub.cc/images/2022/11/22/mm_reward_qrcode_1669119701495.md.png">
+</details>
+
+#### Method 2
+
+Choose amount of money, then open WeChat App(Android/iOS/Harmony OS), scan a QR Code.
+
+<details>
+  <summary>CNY 0.10</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/mm_facetoface_collect_qrcode_1669121929068.md.png">
+</details>
+
+<details>
+  <summary>CNY 0.30</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/mm_facetoface_collect_qrcode_1669121942353.md.png">
+</details>
+
+<details>
+  <summary>CNY 0.50</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/mm_facetoface_collect_qrcode_1669122154957.md.png">
+</details>
+
+<details>
+  <summary>CNY 1.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/mm_facetoface_collect_qrcode_1669122564717.md.png">
+</details>
+
+<details>
+  <summary>CNY 3.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/mm_facetoface_collect_qrcode_1669122580709.md.png">
+</details>
+
+<details>
+  <summary>CNY 5.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/mm_facetoface_collect_qrcode_1669119472910.md.png">
+</details>
+
+### Alipay
+
+![](https://img.shields.io/static/v1?logo=alipay&logoColor=white&label=Alipay&message=%28Recommanded%29&labelColor=1678ff&color=1678ff&style=flat-square)
+
+Choose amount of money, open Alipay App(Android/iOS/Harmony OS), scan a QR Code. Or click a link, then go to Alipay App(Android/iOS/Harmony OS) to pay.
+
+<details>
+  <summary>CNY 0.10</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/1669122789.md.jpg">
+</details>
+
+<details>
+  <summary>CNY 0.30</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/1669122778.md.jpg">
+</details>
+
+<details>
+  <summary>CNY 0.50</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/1669122766.md.jpg">
+</details>
+
+<details>
+  <summary>CNY 1.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/1669122749.md.jpg">
+</details>
+
+<details>
+  <summary>CNY 3.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/1669122724.md.jpg">
+</details>
+
+<details>
+  <summary>CNY 5.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/22/1669119538.md.jpg">
 </details>
