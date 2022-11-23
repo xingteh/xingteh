@@ -56,15 +56,9 @@ MacWinLin Studio's projects: Please click [this](https://support.qq.com/product/
 <a href="https://github.com/macwinlin-studio/github-tools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=macwinlin-studio&repo=github-tools" />
 </a>
-<a href="https://github.com/macwinlin-studio/cgk-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=macwinlin-studio&repo=cgk-system" />
-</a>
 
 <a href="https://github.com/macwinlin-studio/import-2.1.3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=macwinlin-studio&repo=import-2.1.3" />
-</a>
-<a href="https://github.com/apple2031/apple2031.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apple2031&repo=apple2031.github.io" />
 </a>
 
 ## Support
@@ -73,9 +67,48 @@ You can use WeChat or Alipay to sponsor me.
 
 And you can send some messages to me to sponsor me.
 
+### Tencent QQ Pay
+
+[![](https://img.shields.io/static/v1?logo=tencent-qq&logoColor=white&label=Tencent%20QQ&message=Pay&labelColor=12b7f5&color=12b7f5&style=flat-square)](https://www.alipay.com)
+
+Choose amount of money, then open Tencent QQ App(Android/iOS/Harmony OS), scan a QR Code.
+
+<details>
+<summary>Choose amount of money</summary>
+<details>
+  <summary>CNY 0.10</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/23/qrcode_20221123193041.md.png">
+</details>
+
+<details>
+  <summary>CNY 0.30</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/23/qrcode_20221123193102.md.png">
+</details>
+
+<details>
+  <summary>CNY 0.50</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/23/qrcode_20221123193114.md.png">
+</details>
+
+<details>
+  <summary>CNY 1.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/23/qrcode_20221123193126.md.png">
+</details>
+
+<details>
+  <summary>CNY 3.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/23/qrcode_20221123193152.md.png">
+</details>
+
+<details>
+  <summary>CNY 5.00</summary>
+  <img src="https://s1.imagehub.cc/images/2022/11/23/qrcode_20221123193205.md.png">
+</details>
+</details>
+
 ### WeChat
 
-![](https://img.shields.io/static/v1?logo=wechat&logoColor=white&label=WeChat&message=Pay&labelColor=07c160&color=07c160&style=flat-square)
+[![](https://img.shields.io/static/v1?logo=wechat&logoColor=white&label=WeChat&message=Pay&labelColor=07c160&color=07c160&style=flat-square)](https://weixin.qq.com)
 
 Choose a method to pay.
 
@@ -92,6 +125,8 @@ Open WeChat App(Android/iOS/Harmony OS), scan this QR Code.
 
 Choose amount of money, then open WeChat App(Android/iOS/Harmony OS), scan a QR Code.
 
+<details>
+<summary>Choose amount of money</summary>
 <details>
   <summary>CNY 0.10</summary>
   <img src="https://s1.imagehub.cc/images/2022/11/22/mm_facetoface_collect_qrcode_1669121929068.md.png">
@@ -121,13 +156,16 @@ Choose amount of money, then open WeChat App(Android/iOS/Harmony OS), scan a QR 
   <summary>CNY 5.00</summary>
   <img src="https://s1.imagehub.cc/images/2022/11/22/mm_facetoface_collect_qrcode_1669119472910.md.png">
 </details>
+</details>
 
 ### Alipay
 
-![](https://img.shields.io/static/v1?logo=alipay&logoColor=white&label=Alipay&message=%28Recommanded%29&labelColor=1678ff&color=1678ff&style=flat-square)
+[![](https://img.shields.io/static/v1?logo=alipay&logoColor=white&label=Alipay&message=%28Recommanded%29&labelColor=1678ff&color=1678ff&style=flat-square)](https://www.alipay.com/)
 
 Choose amount of money, open Alipay App(Android/iOS/Harmony OS), scan a QR Code. Or click a link, then go to Alipay App(Android/iOS/Harmony OS) to pay.
 
+<details>
+<summary>Choose amount of money</summary>
 <details>
   <summary>CNY 0.10</summary>
   <img src="https://s1.imagehub.cc/images/2022/11/22/1669122789.md.jpg">
@@ -157,3 +195,16 @@ Choose amount of money, open Alipay App(Android/iOS/Harmony OS), scan a QR Code.
   <summary>CNY 5.00</summary>
   <img src="https://s1.imagehub.cc/images/2022/11/22/1669119538.md.jpg">
 </details>
+</details>
+
+## Thanks
+
+Thanks you.
+
+[![](https://img.shields.io/static/v1?logo=cloudflare&logoColor=white&label=Cloudflare&message=SSL%20CDN&labelColor=f5821f&color=f5821f&style=flat-square)](https://cloudflare.com)
+[![](https://img.shields.io/static/v1?logo=jekyll&logoColor=white&label=Jekyll&message=Build&labelColor=c50000&color=c50000&style=flat-square)](https://jekyllrb.com)
+[![](https://img.shields.io/static/v1?logo=github&logoColor=white&label=GitHub&message=Pages&labelColor=495867&color=495867&style=flat-square)](https://github.io)
+[![](https://img.shields.io/static/v1?logo=git&logoColor=white&label=Git&message=Codes&labelColor=f44d27&color=f44d27&style=flat-square)](https://git-scm.com)
+![](https://img.shields.io/static/v1?logo=markdown&label=Markdown&message=Write&style=flat-square)
+[![](https://img.shields.io/static/v1?logo=python&logoColor=white&label=Python&message=Codes&labelColor=376d9c&color=376d9c&style=flat-square)](https://python.org)
+[![](https://img.shields.io/static/v1?logo=cplusplus&logoColor=white&label=C%2B%2B&message=Codes&labelColor=4e733a&color=4e733a&style=flat-square)](https://cplusplus.com)
