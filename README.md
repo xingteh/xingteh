@@ -63,7 +63,7 @@ MacWinLin Studio's projects: Please click [this](https://support.qq.com/product/
 
 ## Thanks
 
-Thank you.
+Thank you all.
 
 [![](https://img.shields.io/static/v1?logo=cloudflare&logoColor=white&label=Cloudflare&message=SSL%20CDN&labelColor=f5821f&color=f5821f&style=flat-square)](https://cloudflare.com)
 [![](https://img.shields.io/static/v1?logo=jekyll&logoColor=white&label=Jekyll&message=Build&labelColor=c50000&color=c50000&style=flat-square)](https://jekyllrb.com)
@@ -72,3 +72,4 @@ Thank you.
 ![](https://img.shields.io/static/v1?logo=markdown&label=Markdown&message=Write&style=flat-square)
 [![](https://img.shields.io/static/v1?logo=python&logoColor=white&label=Python&message=Codes&labelColor=376d9c&color=376d9c&style=flat-square)](https://python.org)
 [![](https://img.shields.io/static/v1?logo=cplusplus&logoColor=white&label=C%2B%2B&message=Codes&labelColor=4e733a&color=4e733a&style=flat-square)](https://cplusplus.com)
+[![](https://img.shields.io/static/v1?logo=qt&logoColor=white&label=Qt&labelColor=41cd52&message=GUI%20Codes&color=41cd52&style=flat-square)](https://www.qt.io)
