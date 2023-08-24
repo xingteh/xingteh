@@ -56,7 +56,7 @@ My personal projects: Please click [this](https://support.qq.com/product/378946)
 
 MacWinLin Studio's projects: Please click [this](https://support.qq.com/product/378689)
 
-| <img align="center" src="https://github-readme-stats.xinxin2021.tk/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin in China's github stats" /> | <img align="center" src="https://github-readme-stats.xinxin2021.tk/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
+| <img align="center" src="https://github-readme-stats.xinxin2021.tk/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin's github stats" /> | <img align="center" src="https://github-readme-stats.xinxin2021.tk/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
 
 ## Repositories
@@ -75,6 +75,7 @@ Thank you all.
 
 [![](https://img.shields.io/static/v1?logo=cloudflare&logoColor=white&label=Cloudflare&message=SSL%20CDN&labelColor=f5821f&color=f5821f&style=flat-square)](https://cloudflare.com)
 [![](https://img.shields.io/static/v1?logo=jekyll&logoColor=white&label=Jekyll&message=Build&labelColor=c50000&color=c50000&style=flat-square)](https://jekyllrb.com)
+[![](https://img.shields.io/static/v1?logo=vercel&logoColor=white&label=Vercel&message=Build%20%26%20Run&labelColor=000000&color=000000&style=flat-square](https://vercel.com)
 [![](https://img.shields.io/static/v1?logo=github&logoColor=white&label=GitHub&message=Pages&labelColor=495867&color=495867&style=flat-square)](https://github.io)
 [![](https://img.shields.io/static/v1?logo=git&logoColor=white&label=Git&message=Codes&labelColor=f44d27&color=f44d27&style=flat-square)](https://git-scm.com)
 ![](https://img.shields.io/static/v1?logo=markdown&label=Markdown&message=Write&style=flat-square)
