@@ -59,6 +59,8 @@ MacWinLin Studio's projects: Please click [this](https://support.qq.com/product/
 | <img align="center" src="https://github-readme-stats.xinxin2021.tk/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin's github stats" /> | <img align="center" src="https://github-readme-stats.xinxin2021.tk/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
 
+![](https://github-profile-trophy.vercel.app/?username=xinxin2021&theme=flat&column=7)
+
 ## Repositories
 
 <a href="https://github.com/macwinlin-studio/github-tools">
