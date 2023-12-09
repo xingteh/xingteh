@@ -48,28 +48,18 @@ What am I doing now? I don't know...
 
 My blog, my drive?
 
-[CGK System](/macwinlin-studio/cgk-system)'s code is very chaos now, I will try to rebuild this project later.
+It's a new project: vidcel.
 
 ### Feedback
 
 My personal projects: Please click [this](https://support.qq.com/product/378946)
 
-MacWinLin Studio's projects: Please click [this](https://support.qq.com/product/378689)
+XiNL's projects: Please click [this](https://support.qq.com/product/378689)
 
 | <img align="center" src="https://github-readme-stats.xinxin2021.tk/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin's github stats" /> | <img align="center" src="https://github-readme-stats.xinxin2021.tk/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
 
 ![](https://github-profile-trophy.vercel.app/?username=xinxin2021&theme=flat&column=7)
-
-## Repositories
-
-<a href="https://github.com/macwinlin-studio/github-tools">
-  <img align="center" src="https://github-readme-stats.xinxin2021.tk/api/pin/?username=macwinlin-studio&repo=github-tools" />
-</a>
-
-<a href="https://github.com/macwinlin-studio/import-2.1.3">
-  <img align="center" src="https://github-readme-stats.xinxin2021.tk/api/pin/?username=macwinlin-studio&repo=import-2.1.3" />
-</a>
 
 ## Thanks
 
