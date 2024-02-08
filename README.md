@@ -56,7 +56,7 @@ My personal projects: Please click [this](https://support.qq.com/product/378946)
 
 XiNL's projects: Please click [this](https://support.qq.com/product/378689)
 
-| <img align="center" src="https://github-readme-stats.xinxin2021.tk/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin's github stats" /> | <img align="center" src="https://github-readme-stats.xinxin2021.tk/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
+| <img align="center" src="https://github-readme-stats.gteh.top/api?username=xinxin2021&show_icons=true&include_all_commits=true&hide_border=true" alt="Xinxin's github stats" /> | <img align="center" src="https://github-readme-stats.gteh.top/api/top-langs/?username=xinxin2021&layout=compact&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
 
 ![](https://github-profile-trophy.vercel.app/?username=xinxin2021&theme=flat&column=7)
